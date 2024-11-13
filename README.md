@@ -35,7 +35,7 @@ The website also links to the **Offgrid Phone** product landing page.
 
 ### 4. **Maintaining Brand Consistency**
    - **Challenge**: The new website needed to retain some aspects of the original brand identity while ensuring it was modernized for a new product-focused business.
-   - **Solution**: I kept the primary color palette intact (blue tones, white, and gray) but streamlined the design elements for a more modern and professional feel. I also ensured that fonts were simple and readable, and that the layout was clean and minimal to highlight the product.
+   - **Solution**: I kept the primary color palette intact (blue tones, white, and gray) but streamlined the design elements for a more modern and professional feel. I also ensured that fonts were simple and readable and that the layout was clean and minimal to highlight the product.
 
 ### 5. **Linking to the Existing Product Landing Page**
    - **Challenge**: The new website needed to link to the existing product landing page (www.offgridphone.com) while maintaining its own identity and purpose.
@@ -74,5 +74,3 @@ If I were to continue improving this website, here are a few things I would cons
 This project was an excellent opportunity to work on a simple, yet impactful, website redesign. By focusing on modern, clean design principles and responsive layout techniques, I was able to create a polished static site that effectively communicates the company’s new direction as a product-focused startup.
 
 The challenges I faced were primarily around ensuring the site was mobile-friendly, visually appealing, and aligned with the new brand identity. Ultimately, I believe the result is a website that positions Sizeable Design as a serious player in the tech space, with a clear focus on **the Offgrid Phone** as its flagship product.
-
-![Uploading image.png…]()
